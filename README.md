@@ -12,6 +12,17 @@ From these patches, I extract embeddings to quickly retrieve contextually approp
 
 Let me know if there’s any more you’d like to add or adjust!
 
+# Original:
+<p align="center">
+  <img src="photo_2024-09-30_16-47-00.jpg" width="100%">
+</p>
+
+# SR-mosaic 8 pixels per patch
 <p align="center">
   <img src="Untitled.jpeg" width="100%">
+</p>
+
+# SR-mosaic 64 pixels per patch
+<p align="center">
+  <img src="mosaic_image_big_patches.jpg" width="100%">
 </p>
