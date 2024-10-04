@@ -14,10 +14,6 @@ To further enhance resolution, a 4x upscaling is applied using the HAT model, op
 
 In essence, this project combines Super Resolution with a unique RAG-inspired approach, achieving 4x SR through patch replacement based on embedding similarities, found via vector search.
 
---- 
-
-Let me know if there’s any more you’d like to add or adjust!
-
 # Original:
 <p align="center">
   <img src="photo_2024-09-30_16-47-00.jpg" width="100%">
