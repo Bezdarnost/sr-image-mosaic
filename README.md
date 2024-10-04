@@ -1,4 +1,4 @@
-*"Retrieval-Augmented Super Resolution through Mosaic Synthesis of Memory-Enhanced Image Patches"*
+# **"Retrieval-Augmented Super Resolution through Mosaic Synthesis of Memory-Enhanced Image Patches"**
 
 **Description**: 
 
