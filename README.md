@@ -8,6 +8,8 @@ The goal of this project is to create a mosaic-based image super resolution gene
 
 From these patches, I extract embeddings to quickly retrieve contextually appropriate patches through vector search. To achieve high-quality resolution, I apply a 4x upscaling using the HAT model, which is specifically trained for RealSR tasks to handle noise effectively. This approach provides a unique twist on Retrieval-Augmented Generation (RAG), using stored image "memory" to generate a coherent, high-resolution mosaic that extends beyond traditional super resolution techniques.
 
+I've used DF2K dataset. Its contain only 3450 images. With bigger dataset and smaller patches we can succeed better results.
+
 --- 
 
 Let me know if there’s any more you’d like to add or adjust!
