@@ -19,7 +19,7 @@ In essence, this project combines Super Resolution with a unique RAG-inspired ap
   <img src="photo_2024-09-30_16-47-00.jpg" width="100%">
 </p>
 
-# SR-mosaic 8 pixels per patch
+# Super-Resolution-mosaic x4 8 pixels per patch
 <p align="center">
   <img src="Untitled.jpeg" width="100%">
 </p>
