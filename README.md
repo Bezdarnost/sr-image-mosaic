@@ -2,7 +2,7 @@
 
 **Description**: 
 
-This project was crafted for fun as part of an exploration into AI techniques for AI News. The primary code and progress tracking can be found in `sr-mosaic.ipynb`.
+This project was crafted for fun and for AI News. The primary code and progress tracking can be found in `sr-mosaic.ipynb`.
 
 The goal of this project is to create a mosaic-based image super resolution generator that overcomes common issues of detail loss, often seen in traditional mosaicking methods due to pixel averaging or nearest-neighbor extrapolation. In my approach, I address these challenges by first partitioning the image dataset into 8x8 patches, scaling each image down by 32x to ensure each patch contains distinct, meaningful information (such as facial features). 
 
